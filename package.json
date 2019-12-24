@@ -1,0 +1,22 @@
+{
+  "name": "thejoshuaevans.com",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheJoshuaEvans/thejoshuaevans.com.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheJoshuaEvans/thejoshuaevans.com/issues"
+  },
+  "homepage": "https://github.com/TheJoshuaEvans/thejoshuaevans.com#readme",
+  "dependencies": {
+    "marked": "^0.8.0"
+  }
+}
